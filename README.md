@@ -1,1 +1,25 @@
 # naive-bayes-for-nlp
+
+Computational Models for Simulating the Adaptation of Loanwords in Turkish
+
+Converter.java source code for the conversion program
+
+loan-test.dat Converted words, test data for Naive
+
+loan-train.dat Converted words, training data for Naive
+
+loan-test-weka.arff Converted words, test data for Weka
+
+loan-train-weka.arff Converted words, training data for Weka 
+
+loanwords.dat Input text for the rule-based model
+
+loanwordsconv.dat Input text for the conversion
+
+LWA.java source code for the User Interface of the rule-based model of the LoanWordAdaptation
+
+Naive.java source code for the Naive Bayes algorithm
+
+setError.txt results of the naive bayes algorithm
+
+test and train for Naive.txt words and their numeric equivalents
